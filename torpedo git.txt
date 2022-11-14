@@ -1,0 +1,10 @@
+GIT tiene tres estados:
+Working area: archivos de proyecto que se trabajan ( repositorio)
+Index: zona intermedia, para ser  utilizado para ser
+monitoreados (los archivos de dados por el wonrking área), 
+todos sus archivos siempre deben estar en el infex
+Git Area: ultimo commit, estado actual del proyecto
+
+Git status: estado del repositorio 
+Git add . (o en vez de ., el archivo en específico)
+Git rm – cached  (archivo)
